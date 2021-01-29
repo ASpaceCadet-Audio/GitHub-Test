@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Gina\Desktop\GitHub-Test\Git Hub Test Game\Git Hub Test Game_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Gina\Desktop\GitHub-Test\Git Hub Test Game\Git Hub Test Game_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Gina\Desktop\GitHub-Test\Git Hub Test Game\Git Hub Test Game_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Gina\Desktop\GitHub-Test\Git Hub Test Game\Git Hub Test Game_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\music</ObjectPath>
+			<ShortName>music</ShortName>
+			<Path>music.bnk</Path>
+			<IncludedMemoryFiles>
+				<File Id="393905358" Language="SFX">
+					<ShortName>menu-theme_draft-03.wav</ShortName>
+					<Path>SFX\menu-theme_draft-03_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{99B11304-416A-490B-AFC1-79DED267668A}" SchemaVersion="94">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{99B11304-416A-490B-AFC1-79DED267668A}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{99B11304-416A-490B-AFC1-79DED267668A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="sound" ID="{8638ED8A-D645-4C02-BF8A-0D07606729F3}" ShortID="910602709">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{134AAFC8-AF43-4C63-8C7A-3E25E282889B}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C0CC4A21-41C9-4F16-92DF-4871B4AEBEA6}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="menu-theme_draft-03" ID="{32B1DC0D-1A95-40BA-A816-CAA3176F753C}" ShortID="393905358">
+							<Language>SFX</Language>
+							<AudioFile>menu-theme_draft-03.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="menu-theme_draft-03" ID="{32B1DC0D-1A95-40BA-A816-CAA3176F753C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>

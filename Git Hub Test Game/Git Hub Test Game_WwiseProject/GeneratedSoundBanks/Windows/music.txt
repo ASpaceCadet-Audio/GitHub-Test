@@ -1,0 +1,3 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	393905358	sound	C:\Users\Gina\Desktop\GitHub-Test\Git Hub Test Game\Git Hub Test Game_WwiseProject\.cache\Windows\SFX\menu-theme_draft-03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\sound		14336068
+
